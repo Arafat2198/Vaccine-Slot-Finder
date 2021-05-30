@@ -28,6 +28,10 @@ Shoot this command to install additional required packages:
 ```
 pip install -r requirements.txt
 ```
+Shoot this command to install the Request Library:
+```
+pip install requests
+```
 
 ## Run Script
 Open Terminal or Command Prompt and type
