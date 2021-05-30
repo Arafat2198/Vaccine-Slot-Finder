@@ -15,18 +15,9 @@ To install pip run in the command Line
 ```
 python -m ensurepip -- default-pip 
 ``` 
-to upgrade it
-```
-python -m pip install -- upgrade pip setuptools wheel
-```
 to upgrade Python
 ```
 pip install python -- upgrade
-```
-**Important**
-Shoot this command to install additional required packages:
-```
-pip install -r requirements.txt
 ```
 Shoot this command to install the Request Library:
 ```
