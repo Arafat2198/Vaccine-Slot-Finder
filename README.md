@@ -36,5 +36,4 @@ Running this script will continuously check for available slot in any Pin Code.
  - Type of Vaccine You need Looking for
 
 ## Troubleshooting
-The [www.cowin.gov.in](https://www.cowin.gov.in)'s server will block your request after some time if you continue to send request using the same IP address. To tackle it, some free proxies from ```proxies.py``` are randomaly being rotated in a random time interval. Feel free to add some more **https** proxies to keep the script running.
-
+The [www.cowin.gov.in](https://www.cowin.gov.in)'s server will block your request after some time if you continue to send request using the same IP address. 
