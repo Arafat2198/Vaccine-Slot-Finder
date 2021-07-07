@@ -1,6 +1,8 @@
 # Covid Vaccine Slot Finder
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/made-with-java.svg)
+![](https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png)
+
 
 ## Description
 A simple python script to get the alert on vaccine slot availablity on a particular PIN code in India. Upon finding the slots in your area, A Beep Sound Would be played in a tune to get your attention so that you can book the appointments.
