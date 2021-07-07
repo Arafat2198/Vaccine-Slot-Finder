@@ -1,6 +1,6 @@
 # Covid Vaccine Slot Finder
 
-![](https://forthebadge.com/images/badges/made-with-java.svg)
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 ![](https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png)
 
 
